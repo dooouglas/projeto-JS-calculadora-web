@@ -1,5 +1,3 @@
-<img src="Imagens\imagejavascript.jpeg">
-
 # Projeto JavaScript - Calculadora Web
 
 Este projeto foi desenvolvido como parte da conclusão do 4º capítulo do curso "JavaScript em 7 Dias", ministrado pelo professor André Iacono na plataforma Udemy. O curso, de nível básico, aborda os fundamentos essenciais do JavaScript, proporcionando uma base sólida para iniciantes na linguagem.
