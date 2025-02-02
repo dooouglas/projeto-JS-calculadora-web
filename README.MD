@@ -31,11 +31,11 @@ O desafio foi desenvolver uma aplicação simples, mas totalmente funcional: uma
 📋 **Detalhes do Projeto**
 A calculadora foi criada para exercitar habilidades como:
 
-✔ Interação com o usuário através de eventos.
-✔ Criação de uma interface JS funcional com HTML e CSS, aplicando os conceitos vistos.
-✔ Atualização dinâmica da interface.
-✔ Implementação de operações matemáticas básicas.
-✔ Manipulação de funções, variáveis, constantes, e estruturas condicionais como *If* e *Else*.
+- Interação com o usuário através de eventos.
+- Criação de uma interface JS funcional com HTML e CSS, aplicando os conceitos vistos.
+- Atualização dinâmica da interface.
+- Implementação de operações matemáticas básicas.
+- Manipulação de funções, variáveis, constantes, e estruturas condicionais como *If* e *Else*.
 
 🛠️ **Tecnologias Utilizadas**
 
