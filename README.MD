@@ -12,8 +12,6 @@ O conteúdo está estruturado em 7 capítulos, cobrindo conceitos fundamentais e
 
 Abaixo, você encontrará um resumo do conteúdo abordado no capítulo 4, além de detalhes sobre o processo de desenvolvimento do projeto:
 
-------------------------------------------------------------------
-
 ## Calculadora Web
 
 O desafio foi desenvolver uma aplicação simples, mas totalmente funcional: uma Calculadora Web. O objetivo era colocar em prática os conceitos vistos no capítulo e ir além do console, integrando HTML, CSS e JavaScript para criar uma interface interativa e funcional.
