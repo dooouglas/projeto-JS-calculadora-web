@@ -1,22 +1,17 @@
-<img src="Imagens\imagejavascript.jpeg">
-
 # Projeto JavaScript - Calculadora Web
 
-Este projeto foi desenvolvido como parte da conclusão do 4º capítulo do curso "JavaScript em 7 Dias", ministrado pelo professor André Iacono na plataforma Udemy. O curso, de nível básico, aborda os fundamentos essenciais do JavaScript, proporcionando uma base sólida para iniciantes na linguagem.
+Esta aplicação foi desenvolvida como 1º projeto do curso de JavaScript, ministrado pelo professor André Iacono na plataforma Udemy.
 
 🎯 **Sobre o Curso**
-O conteúdo está estruturado em 7 capítulos, cobrindo conceitos fundamentais e apresentando desafios práticos para reforçar o aprendizado. Ao longo do curso, desenvolvi 4 projetos, incluindo esta Calculadora Web, que aplica conceitos como manipulação do DOM, eventos e lógica de programação em JavaScript.
+
+O curso, de nível básico, cobre os fundamentos essenciais da linguagem, oferecendo uma base sólida para iniciantes. O conteúdo é estruturado em 7 capítulos, abordando conceitos fundamentais e incluindo desafios práticos para reforçar o aprendizado. Ao longo do curso, desenvolvi 4 projetos, sendo um deles esta aplicação Calculadora Web.
 
 - **Projeto 1: Calculadora Web.**
-- Projeto 2: Calculadora de Gorjetas.
-- Projeto 3: Gerador de Cores.
+- [Projeto 2: Calculadora de Gorjetas — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-calculadora-de-gorjetas)
+- [Projeto 3: Click & Color — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-click-and-color)
 - Projeto 4: Adivinhe o Número.
 
-Abaixo, você encontrará um resumo do conteúdo abordado no capítulo 4, além de detalhes sobre o processo de desenvolvimento do projeto:
-
-------------------------------------------------------------------
-
-## Projeto 1: Calculadora Web
+## Calculadora Web
 
 O desafio foi desenvolver uma aplicação simples, mas totalmente funcional: uma Calculadora Web. O objetivo era colocar em prática os conceitos vistos no capítulo e ir além do console, integrando HTML, CSS e JavaScript para criar uma interface interativa e funcional.
 
@@ -33,19 +28,19 @@ O desafio foi desenvolver uma aplicação simples, mas totalmente funcional: uma
 📋 **Detalhes do Projeto**
 A calculadora foi criada para exercitar habilidades como:
 
-✔️ Interação com o usuário através de eventos.
-✔️ Criação de uma interface JS funcional com HTML e CSS, aplicando os conceitos vistos.
-✔️ Atualização dinâmica da interface.
-✔️ Implementação de operações matemáticas básicas.
-✔️ Manipulação de funções, variáveis, constantes, e estruturas condicionais como *If* e *Else*.
+- Interação com o usuário através de eventos.
+- Criação de uma interface JS funcional com HTML e CSS, aplicando os conceitos vistos.
+- Atualização dinâmica da interface.
+- Implementação de operações matemáticas básicas.
+- Manipulação de funções, variáveis, constantes, e estruturas condicionais como *If* e *Else*.
 
-🛠️ **Tecnologias Utilizadas**
+🛠️ **Tecnologias utilizadas**
 
 - JavaScript.
 - HTML.
 - CSS.
 
-💻 **Ferramentas Utilizadas**
+💻 **Ferramentas utilizadas**
 
 - Visual Studio Code – Editor de código.
 - Git – Controle de versão.
@@ -53,6 +48,8 @@ A calculadora foi criada para exercitar habilidades como:
 
 -----
 
-Este projeto foi realizado sob a tutoria do excelente professor André Iacono, que contribuiu muito para desmistificar o desenvolvimento web.
+<img src="Imagens\certificadojavascript.jpg">
 
-Sinta-se à vontade para explorar o código e contribuir! 🚀
+-----
+
+Este repositório reúne o código e os conceitos aplicados! Sinta-se à vontade para explorar o código e contribuir, deixe uma estrelinha.⭐
