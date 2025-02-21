@@ -9,7 +9,7 @@ O curso, de nível básico, cobre os fundamentos essenciais da linguagem, oferec
 - **Projeto 1: Calculadora Web.**
 - [Projeto 2: Calculadora de Gorjetas — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-calculadora-de-gorjetas)
 - [Projeto 3: Click & Color — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-click-and-color)
-- Projeto 4: Adivinhe o Número.
+- [Projeto 4: Adivinhe o Número — Clique para visualizar.](https://github.com/dooouglas/projeto-JS-adivinhe-o-numero)
 
 ## Calculadora Web
 
@@ -18,14 +18,14 @@ O desafio foi desenvolver uma aplicação simples, mas totalmente funcional: uma
 <img src="Imagens\AnimaçãoCalculadoraWeb.gif">
 
 
-📌 **Como funciona a calculadora**
+📌 **Como funciona a Calculadora**
 
 - A interface exibe um box com dois campos de entrada numérica e um botão "Calcular".
 - O usuário insere os números de sua escolha e, em seguida, escolhe uma das operações matemáticas disponíveis: **soma, subtração, multiplicação ou divisão.**
 - Após clicar no botão “Calcular”, o resultado é exibido na tela, acompanhado pelo texto “Resultado:”.
 - O fluxo é contínuo, permitindo realizar novos cálculos sem a necessidade de reiniciar a página.
 
-📋 **Detalhes do Projeto**
+📋 **Detalhes do projeto**    
 A calculadora foi criada para exercitar habilidades como:
 
 - Interação com o usuário através de eventos.
